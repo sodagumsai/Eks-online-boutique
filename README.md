@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # EKS Microservices Demo
 
 A production-grade microservices application deployed on AWS EKS using Terraform, Kubernetes, and Helm.
@@ -168,4 +168,4 @@ terraform destroy
 =======
 # Eks-online-boutique
 Production-grade deployment of a microservices Online Boutique on AWS EKS. Built with OpenTofu for Infrastructure as Code (Terraform compatible), leveraging Helm for orchestration and IRSA for secure identity management. Showcases scalable, cloud-native architecture and automated environment provisioning.
->>>>>>> eb1b854a376e2775fdc4daebb72d155e4d02bdbb
+
